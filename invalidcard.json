@@ -1,0 +1,8 @@
+{
+    "errors": {
+        "credit_card": {
+            "code": "card-invalid",
+            "name": "Le numéro de carte de cr&eacute;dit est invalide"
+        }
+    }
+}

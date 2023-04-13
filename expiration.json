@@ -1,0 +1,8 @@
+{
+    "errors": {
+        "credit_card": {
+            "code": "card-expired",
+            "name": "La carte de cr&eacute;dit est expir&eacute;e"
+        }
+    }
+}

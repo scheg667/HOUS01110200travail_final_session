@@ -1,0 +1,8 @@
+{
+    "errors" : {
+        "product": {
+            "code": "missing-fields",
+            "name": "La creation d'une commande necessite un produit"
+        }
+    }
+}

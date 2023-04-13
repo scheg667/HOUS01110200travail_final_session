@@ -1,0 +1,8 @@
+{
+    "errors" : {
+        "order": {
+            "code": "missing-fields",
+            "name": "Il manque un ou plusieurs champs qui sont obligatoires"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "errors": {
+        "credit_card": {
+            "code": "transaction-invalid",
+            "name": "Le montant doit etre superieur a zero et au montant d'achat"
+        }
+    }
+}

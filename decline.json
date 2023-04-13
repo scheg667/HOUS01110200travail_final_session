@@ -1,0 +1,6 @@
+{
+    "credit_card": {
+        "code": "card-declined",
+        "name": "La carte de crédit a été déclinée."
+    }
+}

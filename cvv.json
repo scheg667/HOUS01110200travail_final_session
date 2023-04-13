@@ -1,0 +1,8 @@
+{
+    "errors": {
+        "credit_card": {
+            "code": "card-declined",
+            "name": "La code de v&eacute;rification est invalide"
+        }
+    }
+}
